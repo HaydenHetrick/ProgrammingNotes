@@ -1,2 +1,0 @@
-# ProgrammingNotes
-Hayden's Notes
