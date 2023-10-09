@@ -116,3 +116,9 @@ Regular Expression (Regex): A sequence of characters that defines a search patte
 Comprehension: A concise way to create collections in Python using a single line of code, such as list, set, and dictionary comprehensions.
 
 GIL (Global Interpreter Lock): A mechanism used by the CPython interpreter to ensure that only one thread executes Python bytecode at a time, which can be a bottleneck in CPU-bound and multithreaded code.
+
+Muteable: a mutable object allows you to modify its internal state after creation.
+
+Immutable: an immutable object if you can’t change the object’s state after you’ve created it.
+
+Dictionary: Dictionaries are used to store data values in key:value pairs.
